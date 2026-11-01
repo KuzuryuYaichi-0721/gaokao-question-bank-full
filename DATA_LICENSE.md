@@ -1,4 +1,4 @@
-# Data License
+﻿# Data License
 
 The question records in `questions.split.json` are released under the
 Creative Commons Attribution 4.0 International License (CC BY 4.0):
@@ -13,7 +13,7 @@ appropriate credit, link to the license, and indicate if changes were made.
 ```text
 GaokaoCoach Full Question Bank
 KuzuryuYaichi-0721 / GaokaoCoach
-https://github.com/KuzuryuYaichi-0721/gaokao-question-bank-private
+https://github.com/KuzuryuYaichi-0721/gaokao-question-bank-full
 CC BY 4.0
 ```
 
